@@ -39,13 +39,22 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,html,css&theme=dark" />
 
-### Frameworks & Backend
-<img src="https://skillicons.dev/icons?i=flutter,spring,firebase,docker,kubernetes&theme=dark" />
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase&theme=dark" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode&theme=dark" />
 
 </div>
 
