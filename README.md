@@ -168,7 +168,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/partht999">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00D9FF"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
